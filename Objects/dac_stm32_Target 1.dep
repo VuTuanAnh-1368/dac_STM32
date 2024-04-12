@@ -1,0 +1,24 @@
+Dependencies for Project 'dac_stm32', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARM_Compiler_5.06u7
+F (E:/NMHTN/Pack/Keil/STM32F1xx_DFP/2.4.1/RTE_Driver/GPIO_STM32F10x.c)(0x6601BCE8)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103C6-I.\RTE\_Target_1-IE:\NMHTN\Pack\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\NMHTN\Pack\Keil\STM32F1xx_DFP\2.4.1\Device\Include-IE:\NMHTN\Pack\Keil\STM32F1xx_DFP\2.4.1\RTE_Driver-D__UVISION_VERSION="539" -D_RTE_ -DSTM32F10X_LD -D_RTE_-o .\objects\gpio_stm32f10x.o --omf_browse .\objects\gpio_stm32f10x.crf --depend .\objects\gpio_stm32f10x.d)
+I (E:/NMHTN/Pack/Keil/STM32F1xx_DFP/2.4.1/RTE_Driver/GPIO_STM32F10x.h)(0x6601BCE8)
+I (E:\NMHTN\ARM\ARM_Compiler_5.06u7\include\stdbool.h)(0x5E8E4AD2)
+I (E:\NMHTN\Pack\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x6601BCE7)
+I (.\RTE\_Target_1\RTE_Components.h)(0x6618EC17)
+I (E:\NMHTN\Pack\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626F58EE)
+I (E:\NMHTN\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E4AD2)
+I (E:\NMHTN\Pack\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F58EE)
+I (E:\NMHTN\Pack\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F58EE)
+I (E:\NMHTN\Pack\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F58EE)
+I (E:\NMHTN\Pack\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x6601BCE7)
+F (RTE/Device/STM32F103C6/RTE_Device.h)(0x6601BCE8)()
+F (RTE/Device/STM32F103C6/startup_stm32f10x_ld.s)(0x6601BCE7)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\Device\STM32F103C6-I.\RTE\_Target_1-IE:\NMHTN\Pack\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\NMHTN\Pack\Keil\STM32F1xx_DFP\2.4.1\Device\Include-IE:\NMHTN\Pack\Keil\STM32F1xx_DFP\2.4.1\RTE_Driver--pd "__UVISION_VERSION SETA 539" --pd "_RTE_ SETA 1" --pd "STM32F10X_LD SETA 1" --pd "_RTE_ SETA 1"--list .\listings\startup_stm32f10x_ld.lst --xref -o .\objects\startup_stm32f10x_ld.o --depend .\objects\startup_stm32f10x_ld.d)
+F (RTE/Device/STM32F103C6/system_stm32f10x.c)(0x6601BCE7)(--c99 --gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\STM32F103C6-I.\RTE\_Target_1-IE:\NMHTN\Pack\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IE:\NMHTN\Pack\Keil\STM32F1xx_DFP\2.4.1\Device\Include-IE:\NMHTN\Pack\Keil\STM32F1xx_DFP\2.4.1\RTE_Driver-D__UVISION_VERSION="539" -D_RTE_ -DSTM32F10X_LD -D_RTE_-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (E:\NMHTN\Pack\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x6601BCE7)
+I (.\RTE\_Target_1\RTE_Components.h)(0x6618EC17)
+I (E:\NMHTN\Pack\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626F58EE)
+I (E:\NMHTN\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8E4AD2)
+I (E:\NMHTN\Pack\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F58EE)
+I (E:\NMHTN\Pack\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F58EE)
+I (E:\NMHTN\Pack\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F58EE)
+I (E:\NMHTN\Pack\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x6601BCE7)
